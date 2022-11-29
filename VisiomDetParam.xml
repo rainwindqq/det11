@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisionDet>
+  <ProjectNums>2</ProjectNums>
+  <ProjectList>
+    <Project1>
+      <StateNum>4</StateNum>
+      <STATE1>
+        <Camera>
+          <Class>HaclonCamera</Class>
+          <CameraName>usb0 camera</CameraName>
+          <DeviceName>DirectShow</DeviceName>
+          <ImageWidth>500</ImageWidth>
+          <ImageHeight>500</ImageHeight>
+        </Camera>
+        <OutPutPos>
+          <ComPos>COM2</ComPos>
+        </OutPutPos>
+        <DetAlgorithm>
+          <AlgorithmName>DetAlgorithm1</AlgorithmName>
+        </DetAlgorithm>
+        <PreAlgorithm>
+          <AlgorithmName>PreAlgorithm1</AlgorithmName>
+        </PreAlgorithm>
+        <LightControl>
+          <ComPos>COM1</ComPos>
+          <LightValue>120</LightValue>
+          <CH>8</CH>
+        </LightControl>
+      </STATE1>
+      <STATE2>
+        <Camera>
+          <Class>HaclonCamera</Class>
+          <CameraName>usb0 camera</CameraName>
+          <DeviceName>DirectShow</DeviceName>
+          <ImageWidth>500</ImageWidth>
+          <ImageHeight>500</ImageHeight>
+        </Camera>
+        <OutPutPos>
+          <ComPos>COM2</ComPos>
+        </OutPutPos>
+        <DetAlgorithm>
+          <AlgorithmName>DetAlgorithm1</AlgorithmName>
+        </DetAlgorithm>
+        <PreAlgorithm>
+          <AlgorithmName>PreAlgorithm1</AlgorithmName>
+        </PreAlgorithm>
+        <LightControl>
+          <ComPos>COM1</ComPos>
+          <CH>8</CH>
+          <LightValue>120</LightValue>
+        </LightControl>
+      </STATE2>
+      <STATE3>
+        <Camera>
+          <Class>HaclonCamera</Class>
+          <CameraName>usb0 camera</CameraName>
+          <DeviceName>DirectShow</DeviceName>
+          <ImageWidth>500</ImageWidth>
+          <ImageHeight>500</ImageHeight>
+        </Camera>
+        <OutPutPos>
+          <ComPos>COM2</ComPos>
+        </OutPutPos>
+        <DetAlgorithm>
+          <AlgorithmName>DetAlgorithm1</AlgorithmName>
+        </DetAlgorithm>
+        <PreAlgorithm>
+          <AlgorithmName>PreAlgorithm1</AlgorithmName>
+        </PreAlgorithm>
+        <LightControl>
+          <ComPos>COM1</ComPos>
+          <LightValue>120</LightValue>
+          <CH>8</CH>
+        </LightControl>
+      </STATE3>
+      <STATE4>
+        <Camera>
+          <Class>HaclonCamera</Class>
+          <CameraName>usb0 camera</CameraName>
+          <DeviceName>DirectShow</DeviceName>
+          <ImageWidth>500</ImageWidth>
+          <ImageHeight>500</ImageHeight>
+        </Camera>
+        <OutPutPos>
+          <ComPos>COM2</ComPos>
+        </OutPutPos>
+        <PreAlgorithm>
+          <AlgorithmName>PreAlgorithm1</AlgorithmName>
+        </PreAlgorithm>
+        <DetAlgorithm>
+          <AlgorithmName>DetAlgorithm1</AlgorithmName>
+        </DetAlgorithm>
+        <LightControl>
+          <ComPos>COM1</ComPos>
+          <LightValue>120</LightValue>
+          <CH>8</CH>
+        </LightControl>
+      </STATE4>
+    </Project1>
+    <Project2>
+      <Camera>
+        <Class>HaclonCamera</Class>
+        <CameraName>usb0 camera</CameraName>
+        <DeviceName>DirectShow</DeviceName>
+        <ImageWidth>500</ImageWidth>
+        <ImageHeight>500</ImageHeight>
+      </Camera>
+      <LightControl>
+        <ComPos>COM1</ComPos>
+        <LightValue>120</LightValue>
+      </LightControl>
+      <PreAlgorithm>
+        <AlgorithmName>PreAlgorithm1</AlgorithmName>
+      </PreAlgorithm>
+      <DetAlgorithm>
+        <AlgorithmName>DetAlgorithm1</AlgorithmName>
+      </DetAlgorithm>
+      <OutPutPos>
+        <ComPos>COM2</ComPos>
+      </OutPutPos>
+      <StateNum>4</StateNum>
+    </Project2>
+  </ProjectList>
+  <ProjectSelected>Project1</ProjectSelected>
+  <CameraList>
+    <HIKcamera />
+    <AIKcamera />
+    <DaHcamera />
+  </CameraList>
+  <LightControlList>
+    <RSlightControl>8</RSlightControl>
+    <RSlightControl2>4</RSlightControl2>
+  </LightControlList>
+  <PreAlgList>
+    <PreAlg1 />
+    <PreAlg2 />
+  </PreAlgList>
+  <DetAlgList>
+    <DetAlg1 />
+    <DetAlg2 />
+  </DetAlgList>
+  <OutPutList>
+    <OutPut1 />
+    <OutPut2 />
+  </OutPutList>
+</VisionDet>
